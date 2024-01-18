@@ -1,0 +1,7 @@
+.idea
+target/generated-sources
+target/classes/*
+pom.xml
+src/main/java/lesson1
+src/main/java/lesson2
+src/main/java/org
